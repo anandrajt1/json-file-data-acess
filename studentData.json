@@ -1,0 +1,17 @@
+{
+    "students": [
+        {
+            "name":"anand",
+            "age":30,
+            "place":"plkd",
+            "languages":["malayalam","english","tamil"]
+        },
+
+        {
+            "name":"jishnu",
+            "age":39,
+            "place":"kollam" ,
+            "languages":["malayalam","english","hindi"] 
+        }
+    ]
+}
